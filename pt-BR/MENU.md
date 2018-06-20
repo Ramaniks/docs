@@ -9,7 +9,7 @@
 	* [Produtos](user-manual/items)
 	* Receitas
 		* [Vendas](user-manual/incomes/invoices)
-		* [Receita](user-manual/incomes/revenues)
+		* [Recebimentos](user-manual/incomes/revenues)
 		* [Clientes](user-manual/incomes/customers)
 	* Despesas
 		* [Compras](user-manual/expenses/bills)
